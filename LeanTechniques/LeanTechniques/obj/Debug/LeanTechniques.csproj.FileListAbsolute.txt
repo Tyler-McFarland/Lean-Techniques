@@ -1,0 +1,9 @@
+C:\Users\mcfar\OneDrive\Documents\Fall 2019\LeanTechniques\LeanTechniques\bin\Debug\LeanTechniques.exe.config
+C:\Users\mcfar\OneDrive\Documents\Fall 2019\LeanTechniques\LeanTechniques\bin\Debug\LeanTechniques.exe
+C:\Users\mcfar\OneDrive\Documents\Fall 2019\LeanTechniques\LeanTechniques\bin\Debug\LeanTechniques.pdb
+C:\Users\mcfar\OneDrive\Documents\Fall 2019\LeanTechniques\LeanTechniques\obj\Debug\LeanTechniques.csprojAssemblyReference.cache
+C:\Users\mcfar\OneDrive\Documents\Fall 2019\LeanTechniques\LeanTechniques\obj\Debug\LeanTechniques.exe
+C:\Users\mcfar\OneDrive\Documents\Fall 2019\LeanTechniques\LeanTechniques\obj\Debug\LeanTechniques.pdb
+C:\Users\mcfar\OneDrive\Documents\Fall 2019\LeanTechniques\LeanTechniques\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mcfar\OneDrive\Documents\Fall 2019\LeanTechniques\LeanTechniques\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mcfar\OneDrive\Documents\Fall 2019\LeanTechniques\LeanTechniques\obj\Debug\LeanTechniques.csproj.CopyComplete
